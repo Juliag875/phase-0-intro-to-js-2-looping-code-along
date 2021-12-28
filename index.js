@@ -1,6 +1,6 @@
 // Code your solutions in this file
 
-const names = ["Guadalupe", "Ollie", "Aki"];
+// const names = ["Guadalupe", "Ollie", "Aki"];
 
 function writeCards(names, event) {
     let messages =[];
